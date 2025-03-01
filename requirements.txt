@@ -98,3 +98,12 @@ Werkzeug==3.0.4
 xmltodict==0.14.2
 packages.txt
 .streamlit/secrets.toml
+streamlit==1.28.0
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.2
+matplotlib==3.6.2
+python-dotenv==1.0.0
+libgl1-mesa-glx
+libglib2.0-0
+ffmpeg
